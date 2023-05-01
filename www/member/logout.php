@@ -7,4 +7,5 @@
     echo "<script>
         location.href='../main/index.php';
     </script>";
+//깃허브 커밋 테스트
 ?>
